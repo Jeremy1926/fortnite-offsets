@@ -1,9 +1,7 @@
 Fortnite Offsets 05.04.2023
 
-#pragma once
-#include <Windows.h>
 
-#define GWorld 0xEF0F440 
+ GWorld 0xEF0F440 
 namespace OFFSETS
 {
     
