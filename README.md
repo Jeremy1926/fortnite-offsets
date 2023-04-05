@@ -2,8 +2,7 @@ Fortnite Offsets 05.04.2023
 
 
  GWorld 0xEF0F440 
-namespace OFFSETS
-{
+ 
     
     uintptr_t TeamId = 0x10B0;
 
