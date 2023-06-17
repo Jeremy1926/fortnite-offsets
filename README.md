@@ -4,7 +4,7 @@ Fortnite Offsets 17.06.2023
  GWorld 0xf1beee8
  
     
-    uintptr_t TeamId = 0x10B0;
+    uintptr_t TeamId = 0x10B8;
 
   
     uintptr_t LocalActorPos = 0x128;
