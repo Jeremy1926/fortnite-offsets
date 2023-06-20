@@ -39,4 +39,4 @@ Fortnite Offsets 20.06.2023
     // Visible Check
     uintptr_t fLastSubmitTime = 0x360;
     uintptr_t fLastRenderTimeOnScreen = 0x368;
-}
+
