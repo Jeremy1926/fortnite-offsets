@@ -34,7 +34,7 @@ Fortnite Offsets 17.06.2023
     uintptr_t Velocity = 0x170;
     uintptr_t PawnPrivate = 0x300;
     uintptr_t ReviveFromDBNOTime = 0x4698;
-    uintptr_t CurrentWeapon =  0x908;
+    uintptr_t CurrentWeapon =  0x948;
     
     // Visible Check
     uintptr_t fLastSubmitTime = 0x360;
