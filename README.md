@@ -1,7 +1,7 @@
 Fortnite Offsets 20.06.2023
 
 
- GWorld 0xf1beee8
+ GWorld 0xEA774E8
  
     
     uintptr_t TeamId = 0x10C8;
