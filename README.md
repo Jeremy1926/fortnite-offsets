@@ -1,4 +1,4 @@
-Fortnite Offsets 17.06.2023
+Fortnite Offsets 20.06.2023
 
 
  GWorld 0xf1beee8
