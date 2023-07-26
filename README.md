@@ -1,7 +1,7 @@
-Fortnite Offsets 20.06.2023
+Fortnite Offsets 26.07.2023
 
 
- GWorld 0xEA774E8
+ GWorld 0XEE2F8E8
  
     
     uintptr_t TeamId = 0x10C8;
@@ -32,8 +32,8 @@ Fortnite Offsets 20.06.2023
     uintptr_t PersistentLevel = 0x30;
     uintptr_t Mesh = 0x310;
     uintptr_t Velocity = 0x170;
-    uintptr_t PawnPrivate = 0x300;
-    uintptr_t ReviveFromDBNOTime = 0x4698;
+    uintptr_t PawnPrivate = 0x300; // Not Sure
+    uintptr_t ReviveFromDBNOTime = 0x46B8;
     uintptr_t CurrentWeapon =  0x948;
     
     // Visible Check
