@@ -30,6 +30,7 @@
     // Other
     uintptr_t RootComponet = 0x198;
     uintptr_t PersistentLevel = 0x30;
+    uintptr_t PlayerArray = 0x2a8;
     uintptr_t Mesh = 0x318;
      uintptr_t TeamId = 0x10D8;
     uintptr_t Velocity = 0x170;
