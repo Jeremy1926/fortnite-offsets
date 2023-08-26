@@ -10,6 +10,10 @@
     uintptr_t LocalPawn = 0x338;
     uintptr_t LocalPlayers = 0x38;
 
+    //Name
+
+    uintptr_t pNameStructure = 0xAE8;
+
     uintptr_t BoneArray = 0x600;
     uintptr_t PlayerState = 0x2b0; 
     uintptr_t PlayerController = 0x30;
