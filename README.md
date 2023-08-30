@@ -3,8 +3,8 @@
 
 
     //Game - Main
-    UWorld : 0x10E500E8
-    ViewPoint : 0x10F90A10
+    UWorld : 0x10e511c8
+    ViewPoint : 0x10f91a10
     
     uintptr_t LocalActorPos = 0x128;
     uintptr_t LocalPawn = 0x338;
