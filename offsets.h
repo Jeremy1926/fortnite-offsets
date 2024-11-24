@@ -29,31 +29,31 @@ namespace Engine
 
 namespace Game
 {
-  uintptr_t RelativeLocation = 0x120;
-  uintptr_t DisplayName = 0x40;
-  uintptr_t Velocity = 0x168;
-  uintptr_t DefaultFOV = 0x2bc;
-  uintptr_t CurrentWeapons = 0x9f8;
-  uintptr_t bIsReloadingWeapon = 0x3b9;
-  uintptr_t bIsEquippingWeapon = 0x3a0;
-  uintptr_t bIsChargingWeapon = 0x3b8;
-  uintptr_t WeaponData = 0x568;
-  uintptr_t AmmoCount = 0xfac;
-  uintptr_t bIsTargeting = 0x1ed4;
-  uintptr_t Tier = 0xa2;
-  uintptr_t bIsCrouched = 0x440;
-  uintptr_t bIsDying = 0x6f0;
-  uintptr_t bIsHiddenForDeath = 0x6f0;
-  uintptr_t bIsKnockedback = 0x6f1;
-  uintptr_t bIsStaggered = 0x6f1;
-  uintptr_t bIsInvulnerable = 0x6f2;
-  uintptr_t bSpotted = 0x75A;
-  uintptr_t bIsSliding = 0x6f2;
-  uintptr_t bWeaponHolstered = 0x911;
-  uintptr_t bIsDBNO = 0x912;
-  uintptr_t RevivedFromDBNOTime = 0x4d08;
-  uintptr_t bIsJumping = 0x9f0;
-  uintptr_t bIsABot = 0x2b2;
+    uintptr_t RelativeLocation = 0x120;
+    uintptr_t DisplayName = 0x40;
+    uintptr_t Velocity = 0x168;
+    uintptr_t DefaultFOV = 0x2bc;
+    uintptr_t CurrentWeapons = 0x9f8;
+    uintptr_t bIsReloadingWeapon = 0x3b9;
+    uintptr_t bIsEquippingWeapon = 0x3a0;
+    uintptr_t bIsChargingWeapon = 0x3b8;
+    uintptr_t WeaponData = 0x568;
+    uintptr_t AmmoCount = 0xfac;
+    uintptr_t bIsTargeting = 0x1ed4;
+    uintptr_t Tier = 0xa2;
+    uintptr_t bIsCrouched = 0x440;
+    uintptr_t bIsDying = 0x6f0;
+    uintptr_t bIsHiddenForDeath = 0x6f0;
+    uintptr_t bIsKnockedback = 0x6f1;
+    uintptr_t bIsStaggered = 0x6f1;
+    uintptr_t bIsInvulnerable = 0x6f2;
+    uintptr_t bSpotted = 0x75A;
+    uintptr_t bIsSliding = 0x6f2;
+    uintptr_t bWeaponHolstered = 0x911;
+    uintptr_t bIsDBNO = 0x912;
+    uintptr_t RevivedFromDBNOTime = 0x4d08;
+    uintptr_t bIsJumping = 0x9f0;
+    uintptr_t bIsABot = 0x2b2;
 }
 
 
