@@ -7,6 +7,6 @@ Always Updated to Newest Patch.
 
 **Credits:**
 
-Jeremy
+**Jeremy**
 
-Dumpspace (Spuckwaffel & Stern)
+**Dumpspace (Spuckwaffel & Stern)**
