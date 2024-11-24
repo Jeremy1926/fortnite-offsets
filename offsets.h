@@ -8,23 +8,22 @@ namespace WORLD
 
 namespace Engine
 {
-  uintptr_t LocalPawn = 0x350;
-	uintptr_t PlayerController = 0x30;
-	uintptr_t LocalPlayers = 0x38;
-	uintptr_t PlayerState = 0x2c8;
-	uintptr_t GameState = 0x178;
-	uintptr_t GameInstance = 0x1f0;
-	uintptr_t PlayerArray = 0x2c0;
-  uintptr_t Levels = 0x190;
-	uintptr_t BoneArray = 0x580; 
-	uintptr_t BoneCache = 0x5b8;
-	uintptr_t ComponentToWorld = 0x1c0;
-	uintptr_t Mesh = 0x328;
-	uintptr_t PersistentLevel = 0x40;
-	uintptr_t PawnPrivate = 0x320;
-	uintptr_t GlobalAnimRateScale = 0x9f0;
-	uintptr_t CustomTimeDilation = 0x68;
-
+    uintptr_t LocalPawn = 0x350;
+    uintptr_t PlayerController = 0x30;
+    uintptr_t LocalPlayers = 0x38;
+    uintptr_t PlayerState = 0x2c8;
+    uintptr_t GameState = 0x178;
+    uintptr_t GameInstance = 0x1f0;
+    uintptr_t PlayerArray = 0x2c0;
+    uintptr_t Levels = 0x190;
+    uintptr_t BoneArray = 0x580; 
+    uintptr_t BoneCache = 0x5b8;
+    uintptr_t ComponentToWorld = 0x1c0;
+    uintptr_t Mesh = 0x328;
+    uintptr_t PersistentLevel = 0x40;
+    uintptr_t PawnPrivate = 0x320;
+    uintptr_t GlobalAnimRateScale = 0x9f0;
+    uintptr_t CustomTimeDilation = 0x68;
 }
 
 namespace Game
