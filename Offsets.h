@@ -24,6 +24,9 @@ namespace Engine
     uintptr_t PawnPrivate = 0x320;
     uintptr_t GlobalAnimRateScale = 0x9f0;
     uintptr_t CustomTimeDilation = 0x68;
+    uintptr_t PNameStructure = 0xad0;
+    uintptr_t SpeedScale = 0x1f64;
+    uintptr_t SpeedScale = 0x1f60;
 }
 
 namespace Game
