@@ -1,4 +1,4 @@
-**Fortnite Offsets Patch 32.11**
+Fortnite Offsets Patch 32.11
 
 namespace WORLD
 {
