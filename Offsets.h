@@ -2,7 +2,7 @@ Fortnite Offsets Patch 32.11
 
 namespace WORLD
 {
-   uintptr_t UWorld = 0x12ed8e38;
+   uintptr_t UWorld = 0x12e8ef68;
    uintptr_t GNames = 0x130c2a80;
 }
 
@@ -12,8 +12,8 @@ namespace Engine
     uintptr_t PlayerController = 0x30;
     uintptr_t LocalPlayers = 0x38;
     uintptr_t PlayerState = 0x2c8;
-    uintptr_t GameState = 0x178;
-    uintptr_t GameInstance = 0x1f0;
+    uintptr_t GameState = 0x180;
+    uintptr_t GameInstance = 0x1f8;
     uintptr_t PlayerArray = 0x2c0;
     uintptr_t Levels = 0x190;
     uintptr_t BoneArray = 0x580; 
