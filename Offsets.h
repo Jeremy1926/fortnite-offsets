@@ -33,7 +33,7 @@ namespace Game
 {
     uintptr_t RelativeLocation = 0x120;
     uintptr_t DisplayName = 0x40;
-    uintptr_t Velocity = 0x168;
+    uintptr_t ComponentVelocity = 0x180;
     uintptr_t DefaultFOV = 0x2bc;
     uintptr_t CurrentWeapon = 0xa80;
     uintptr_t bIsReloadingWeapon = 0x3b9;
