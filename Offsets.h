@@ -17,7 +17,7 @@ namespace Engine
     uintptr_t PlayerArray = 0x2c0;
     uintptr_t Levels = 0x1a0;
     uintptr_t BoneArray = 0x5a8; 
-    uintptr_t BoneCache = 0x5b8;
+    uintptr_t BoneCache = 0x590;
     uintptr_t ComponentToWorld = 0x1e0;
     uintptr_t Mesh = 0x328;
     uintptr_t PersistentLevel = 0x40;
